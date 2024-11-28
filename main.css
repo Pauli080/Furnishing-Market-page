@@ -1,0 +1,181 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background {
+    background: url(./images/bedroom.jpeg) center/cover;
+    filter: grayscale(40%);
+    color: azure;
+    width: 97vw;
+    height: 50vh;
+    /* position: fixed; */
+    /* z-index: -1; */
+    display: flex;
+    align-items: last baseline;
+    margin-right: 1rem;
+    border-radius: 3rem;
+   
+    
+}
+
+.bringing {
+    width: 50%;
+    margin: 2rem;
+}
+
+.journey {
+    background: wheat;
+    color: black;
+    height: 2rem;
+    width: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.consectetur {
+    background: #866a6a;
+    width: 30%;
+    height: 40vh;
+    margin: 2rem;
+    margin-left: 6rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.second {
+    display: flex;
+}
+
+.who-we-are {
+    display: flex;
+    background: #66696917;
+    margin: 1rem;
+    width: 50%;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.people {
+    margin-left: 2rem;
+    height: 100%;
+}
+
+.lorem-ipsum {
+    display: flex;
+    align-items: last baseline;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
+
+.experience {
+    margin: 2rem;
+    margin-left: 6rem;
+}
+
+.simplify {
+    color: #fdb492;
+}
+
+.third {
+    display: flex;
+}
+
+.after p {
+    width: 30rem;
+}
+
+.after {
+    background: #f8f6f5;
+    margin: 2rem;
+    margin-left: 6rem;
+    padding: 2rem;
+    width: 50%;
+}
+
+.compatto {
+    margin: 2rem;
+    margin-left: 6rem;
+}
+
+.end-to-end {
+    display: flex;
+     /* background: #66696917;  */
+    width: 50rem;
+    /* height: 20rem; */
+    margin: 0rem;
+    margin-left: 6rem;
+    /* padding: 3rem; */
+    
+}
+
+.solutions {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    border: 1px solid;
+    width: 30rem;
+    height: 15rem;
+    /* padding: 0rem 0rem 0rem 2rem; */
+    align-items: center;
+    border-radius: 10px;
+   
+}
+
+.solutions2 {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    border: 1px solid;
+    width: 30rem;
+    height: 15rem;
+    /* padding: 0rem 0rem 0rem 2rem; */
+    align-items: center;
+    justify-content: end;
+    border-radius: 10px;
+   
+}
+
+.superior {
+    display: flex;
+    flex-direction: column;
+    background: url(./images/living\ room\ modern\ two\ chairs.jpeg) center/cover;
+    margin: 2ch;
+    color: black;
+    margin-left: 7rem;
+    border: 1px solid;
+    width: 48rem;
+    height: 15rem;
+    /* padding: 0rem 0rem 0rem 2rem; */
+    align-items: center;
+    justify-content: end;
+    border-radius: 10px;
+}
+
+.variety {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0rem 0rem 0rem;
+    background: #2c1910;
+    color: aliceblue;
+    border: 1px solid;
+    width: 20rem;
+    height: 32rem;
+    padding: 1rem;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.last {
+    display: flex;
+}
+
+.our-lorem {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin-top: 5rem;
+}
+
