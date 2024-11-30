@@ -19,6 +19,10 @@
     
 }
 
+.background h3 {
+    font-size: 1.5rem;
+}
+
 .header {
     display: flex;
     align-items: center;
@@ -86,12 +90,15 @@
 .second {
     display: flex;
     align-items: center;
+    margin-top: 2rem;
+    height: 17rem;
 }
 
 .who-we-are {
     display: flex;
     background: #66696917;
     margin: 1rem;
+    height: 100%;
     width: 50%;
     padding-left: 1rem;
     border-radius: 10px;
@@ -99,7 +106,8 @@
 
 .people {
     margin-left: 2rem;
-    height: 15rem;
+    height: 17rem;
+    width: 19rem;
     border-bottom-left-radius: 10rem;
     border-top-left-radius: 10rem;
     border-left: 10px solid #beb8b6;
@@ -111,6 +119,10 @@
     align-items: last baseline;
     justify-content: space-between;
     margin-top: 5rem;
+}
+
+.number {
+    font-size: 1.5rem;
 }
 
 .experience {
@@ -164,6 +176,16 @@
     top: 3rem;
 }
 
+.third4 {
+    display: flex;
+    width: 100%;
+    height: 15rem;
+    justify-content: center;
+    margin: auto;
+    position: absolute;
+    top: 4rem;
+}
+
 .relative {
     position: relative;
 }
@@ -186,6 +208,10 @@
     height: 100%;
     width: 50%;
     box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.after h2 {
+     color: #fdb492;
 }
 
 .compatto {
@@ -238,7 +264,7 @@
     flex-direction: column;
     background: url(./images/living\ room\ modern\ two\ chairs.jpeg) center/cover;
     filter: grayscale(40%);
-    color: black;
+    color: wheat;
     margin-left: 7rem;
     border: 1px solid;
     width: 48rem;
@@ -258,7 +284,7 @@
     color: aliceblue;
     border: 1px solid;
     width: 20rem;
-    height: 32rem;
+    height: 31rem;
     padding: 1rem;
     align-items: center;
     border-radius: 10px;
@@ -272,6 +298,6 @@
     display: flex;
     flex-direction: column;
     padding: 1rem;
-    margin-top: 5rem;
+    margin-top: 4rem;
 }
 
