@@ -236,7 +236,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: last baseline;
-    margin-top: 3rem;
+    margin-top: 10rem;
 } 
 
 .variety {
@@ -247,6 +247,7 @@ main {
     width: 30%;
     height: 32rem;
     padding: 1rem;
+    padding-top: 2em;
     margin-left: 0.5rem;
     align-items: center;
     border-radius: 10px;
@@ -298,7 +299,14 @@ main {
 
 @media (min-width: 1440px) {
     .variety {
-    height: 36rem;
+    height: 37rem;
 }
+
+.our-lorem {
+    display: flex;
+    flex-direction: column;
+    align-items: last baseline;
+    margin-top: 20rem;
+} 
 
 }
